@@ -24,8 +24,8 @@ Therefore , the use of a ML algorithm would be useful for helping the medical st
 
 ## Quick Results to visualize
 
-![title](correlation_variables_deathpredict.png)
-![title](model_comparison.png)
+![title](Image/correlation_variables_deathpredict.png)
+![title](Image/model_comparison.png)
 
 ## Data
 
